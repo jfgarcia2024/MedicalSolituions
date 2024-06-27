@@ -1,0 +1,36 @@
+.logo{
+    width: 100px;
+    height: 85px;
+}
+
+.card-img-top{
+    height: 150px;
+}
+.not{
+    width: 100%;
+    height: 200px;
+}
+.video{
+    width: 100%;
+}
+.boton{
+    background-color:  #75eee6;
+    width:80%;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.boton:hover{
+background-color: rgb(34, 107, 210);
+color: #fff9ee;}
+
+.card-body{
+    justify-content: center;
+    text-align: center;
+}
+.bienvenido{
+    text-align: justify;
+}
+.noti1{
+    text-align: justify;
+}
